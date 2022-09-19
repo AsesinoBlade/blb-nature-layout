@@ -23,5 +23,6 @@
         "Assets/Game/Mods/blb-nature-layout/BLBNatureLayout.cs",
         "Assets/Game/Mods/blb-nature-layout/BLBNature.cs",
         "Assets/Game/Mods/blb-nature-layout/blb-nature-layout.dfmod.json"
-    ]
+    ],
+    "ModPreCompile": true
 }
